@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @GertkingABP
-- 👀 I’m student.
 
-- Here is my projects with using IT technologies and program languages (C/C++, Python, C# and etc.).
+- 👀 Here is my projects with using IT technologies and program languages (C/C++, Python, C# and etc.).
 
 <!---
 GertkingABP/GertkingABP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
